@@ -1,1 +1,0 @@
-# credittocapitalfinancial.github.io
