@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Credit to Capital Financial Solutions</title>
+<meta name="description" content="Credit education, personal credit guidance, business credit education and funding readiness.">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,sans-serif;background:#071426;color:#fff;line-height:1.6}
+header{padding:22px 7%;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #b99545}
+.logo{font-size:19px;font-weight:bold;color:#e2bd65}
+nav a{color:white;text-decoration:none;margin-left:15px;font-size:14px}
+.hero{text-align:center;padding:90px 20px;background:linear-gradient(135deg,#071426,#142b48)}
+.hero h1{font-size:clamp(32px,6vw,52px);color:#e2bd65;line-height:1.2}
+.hero p{max-width:650px;margin:20px auto;color:#d8e0eb}
+.btn{display:inline-block;background:#d6ae54;color:#071426;padding:13px 25px;border-radius:5px;text-decoration:none;font-weight:bold;margin:8px}
+section{padding:65px 7%}
+h2{text-align:center;color:#e2bd65;font-size:30px;margin-bottom:30px}
+.intro{text-align:center;max-width:750px;margin:auto;color:#d8e0eb}
+.services,.packages{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+.card{background:#11243b;border:1px solid #a9843e;border-radius:9px;padding:24px}
+.card h3{color:#e2bd65;margin-bottom:10px}
+.card p{color:#d8e0eb;font-size:15px}
+.price{font-size:27px;color:#e2bd65;font-weight:bold;margin:12px 0}
+.card a{display:inline-block;margin-top:15px;color:#e2bd65}
+.contact{text-align:center;background:#10233a}
+.contact p{margin:12px}
+.contact a{color:#e2bd65}
+footer{text-align:center;padding:25px;color:#bdc8d6;font-size:13px}
+.disclaimer{font-size:12px;color:#b9c4d1;max-width:850px;margin:20px auto;text-align:center}
+@media(max-width:600px){
+header{flex-direction:column;gap:12px}
+nav a{margin:0 7px}
+section{padding:45px 5%}
+}
+</style>
+</head>
+<body>
+
+<header>
+<div class="logo">CREDIT TO CAPITAL</div>
+<nav>
+<a href="#home">Home</a>
+<a href="#services">Services</a>
+<a href="#packages">Packages</a>
+<a href="#contact">Contact</a>
+</nav>
+</header>
+
+<section class="hero" id="home">
+<h1>From Credit Knowledge<br>To Financial Opportunity</h1>
+<p>Welcome to Credit to Capital Financial Solutions. We provide educational guidance to help individuals and business owners better understand credit and prepare for financial opportunities.</p>
+<a class="btn" href="#packages">Explore Packages</a>
+<a class="btn" href="https://wa.me/12056905652">WhatsApp Us</a>
+</section>
+
+<section id="services">
+<h2>Our Services</h2>
+<div class="services">
+<div class="card">
+<h3>Credit Education</h3>
+<p>Learn how credit works, understand credit reports and develop responsible credit habits.</p>
+</div>
+<div class="card">
+<h3>Personal Credit Guidance</h3>
+<p>Educational guidance for understanding your personal credit profile and financial goals.</p>
+</div>
+<div class="card">
+<h3>Business Credit Education</h3>
+<p>Learn about business credit profiles, business credit fundamentals and responsible credit practices.</p>
+</div>
+<div class="card">
+<h3>Funding Readiness</h3>
+<p>Understand financial documentation and general preparation considerations before seeking funding.</p>
+</div>
+</div>
+</section>
+
+<section id="packages">
+<h2>Our Packages</h2>
+<div class="packages">
+
+<div class="card">
+<h3>Credit Foundations</h3>
+<div class="price">$49</div>
+<p>Introduction to credit fundamentals and financial education.</p>
+<a href="#contact">Inquire Now</a>
+</div>
+
+<div class="card">
+<h3>Credit Confidence</h3>
+<div class="price">$99</div>
+<p>Personal credit education and guidance on understanding credit reports.</p>
+<a href="#contact">Inquire Now</a>
+</div>
+
+<div class="card">
+<h3>Credit Transformation</h3>
+<div class="price">$149</div>
+<p>More in-depth educational guidance on credit habits and financial planning.</p>
+<a href="#contact">Inquire Now</a>
+</div>
+
+<div class="card">
+<h3>Capital Readiness</h3>
+<div class="price">$249</div>
+<p>Educational preparation covering financial documents and funding considerations.</p>
+<a href="#contact">Inquire Now</a>
+</div>
+
+<div class="card">
+<h3>Business Credit Builder</h3>
+<div class="price">$399</div>
+<p>Business credit education and guidance on building a responsible business credit profile.</p>
+<a href="#contact">Inquire Now</a>
+</div>
+
+<div class="card">
+<h3>Elite Financial Growth</h3>
+<div class="price">$599</div>
+<p>Comprehensive educational guidance covering personal credit, business credit and funding readiness.</p>
+<a href="#contact">Inquire Now</a>
+</div>
+
+</div>
+</section>
+
+<section class="contact" id="contact">
+<h2>Let's Get Started</h2>
+<p>Contact Credit to Capital Financial Solutions for package information and inquiries.</p>
+<p>Phone: <a href="tel:+12056905652">+1 205-690-5652</a></p>
+<p>Email: <a href="mailto:merchantlinkaja16@gmail.com">merchantlinkaja16@gmail.com</a></p>
+<p><a class="btn" href="https://wa.me/12056905652">Chat With Us on WhatsApp</a></p>
+</section>
+
+<p class="disclaimer">Credit to Capital Financial Solutions provides educational information and guidance. We do not guarantee credit score increases, removal of accurate negative information, loan approvals or funding. Outcomes depend on individual circumstances and decisions made by third parties. Services are subject to applicable laws and written terms.</p>
+
+<footer>
+© 2026 Credit to Capital Financial Solutions. All rights reserved.
+</footer>
+
+</body>
+</html>
